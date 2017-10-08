@@ -597,7 +597,7 @@ if minetest.setting_getbool("enable_hemp_mapgen") ~= false then
 				offset = -0.02,
 				scale = 0.02,
 				spread = {x = 200, y = 200, z = 200},
-				seed = seed,
+				seed = 420,
 				octaves = 3,
 				persist = 0.8
 			},
